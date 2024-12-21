@@ -36,3 +36,9 @@ h1{
     color: black;
     margin: 30px;
 }
+.playerScore, .computerScore {
+    font-size: 2rem;
+    color: black;
+    margin-top: 20px;
+    font-weight: bold;
+}
